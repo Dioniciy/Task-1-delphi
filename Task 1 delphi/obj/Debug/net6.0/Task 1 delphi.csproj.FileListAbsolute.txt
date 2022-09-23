@@ -1,0 +1,15 @@
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\bin\Debug\net6.0\Task 1 delphi.exe
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\bin\Debug\net6.0\Task 1 delphi.deps.json
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\bin\Debug\net6.0\Task 1 delphi.runtimeconfig.json
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\bin\Debug\net6.0\Task 1 delphi.dll
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\bin\Debug\net6.0\Task 1 delphi.pdb
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.AssemblyInfoInputs.cache
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.AssemblyInfo.cs
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.dll
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\refint\Task 1 delphi.dll
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.pdb
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\Task 1 delphi.genruntimeconfig.cache
+C:\Users\Den\source\repos\Task 1 delphi\Task 1 delphi\obj\Debug\net6.0\ref\Task 1 delphi.dll

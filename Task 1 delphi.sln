@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 delphi", "Task 1 delphi\Task 1 delphi.csproj", "{EE3696A4-5464-477F-9B17-860C3A10C527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3696A4-5464-477F-9B17-860C3A10C527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3696A4-5464-477F-9B17-860C3A10C527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3696A4-5464-477F-9B17-860C3A10C527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3696A4-5464-477F-9B17-860C3A10C527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A9EAF7-6805-475C-B749-96B82EC3C35B}
+	EndGlobalSection
+EndGlobal
